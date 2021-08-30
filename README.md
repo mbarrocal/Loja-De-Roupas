@@ -1,2 +1,2 @@
-# Loja-De-Roupas
-Um pequeno projeto - Curso Técnico em Informática
+## Um pequeno projeto - Curso Técnico em Informática
+
